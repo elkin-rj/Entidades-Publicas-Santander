@@ -37,26 +37,100 @@
       position: absolute;
       top: 20px;
       left: 20px;
-      background: rgba(255,255,255,0.9);
+      background: rgba(255,255,255,0.6);
       padding: 10px 15px;
       border-radius: 6px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.3);
       font-size: 14px;
       line-height: 1.4;
-      max-width: 250px;
+      max-width: 260px;
       z-index: 1200;
+      transition: opacity 0.5s ease;
     }
     .tutorial-box b { color: #333; }
+
+    .close-btn {
+      position: absolute;
+      top: 5px;
+      right: 8px;
+      cursor: pointer;
+      font-weight: bold;
+      color: #555;
+    }
+    .close-btn:hover { color: red; }
+
+    .tutorial-tab {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      background: rgba(0, 123, 255, 0.9);
+      color: white;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 15px;
+      font-weight: bold;
+      cursor: pointer;
+      display: none;
+      z-index: 1201;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+    .tutorial-tab:hover { background: rgba(0, 123, 255, 1); }
+
+    /* Tooltip azul */
+    .tooltip {
+      position: absolute;
+      background: rgba(0, 123, 255, 0.95);
+      color: white;
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      white-space: nowrap;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s;
+      z-index: 1300;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+
+    /* Mejoras móviles */
+    @media (max-width: 600px) {
+      .tutorial-box {
+        font-size: 13px;
+        max-width: 220px;
+        padding: 8px 12px;
+      }
+      .tutorial-tab {
+        font-size: 16px;
+        padding: 10px 18px;
+      }
+    }
+
+    /* Animación para resaltar la pestaña */
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 rgba(0,123,255, 0.7); }
+      50% { box-shadow: 0 0 15px rgba(0,123,255, 1); }
+      100% { box-shadow: 0 0 0 rgba(0,123,255, 0.7); }
+    }
+    .highlight {
+      animation: pulse 1.2s ease-in-out 3;
+    }
   </style>
 </head>
 <body>
   <!-- Tutorial flotante -->
-  <div class="tutorial-box">
+  <div class="tutorial-box" id="tutorialBox">
+    <span class="close-btn" id="closeTutorial">✖</span>
     <b>ℹ️ Tutorial:</b><br>
     - Usa la rueda del mouse o el touchpad para <b>acercar y alejar</b> el mapa.<br>
     - Haz clic en los <b>puntos</b> para ver los datos de la entidad.<br>
     - Utiliza el <b>filtro de municipios</b> (abajo a la derecha) para encontrar entidades más fácil.
   </div>
+
+  <!-- Pestaña -->
+  <div class="tutorial-tab" id="tutorialTab">📘 Tutorial</div>
+
+  <!-- Tooltip -->
+  <div class="tooltip" id="tooltip">Haz clic para ver el tutorial</div>
 
   <div id="map"></div>
 
@@ -82,7 +156,6 @@
       .then(data => {
         allFeatures = data.features;
 
-        // poblar municipios
         allFeatures.forEach(f => {
           let mun = f.properties.municipio || "Sin municipio";
           municipios.add(mun);
@@ -120,6 +193,49 @@
       }).eachLayer(l => { if (l) markers.addLayer(l); });
       map.addLayer(markers);
     }
+
+    // --- Tutorial ---
+    var tutorialBox = document.getElementById('tutorialBox');
+    var closeBtn = document.getElementById('closeTutorial');
+    var tutorialTab = document.getElementById('tutorialTab');
+    var tooltip = document.getElementById('tooltip');
+
+    // Animación inicial pestaña
+    window.addEventListener('load', () => {
+      tutorialTab.classList.add('highlight');
+      setTimeout(() => tutorialTab.classList.remove('highlight'), 4000);
+    });
+
+    // Botón ✖ para ocultar tutorial
+    closeBtn.addEventListener('click', function() {
+      tutorialBox.style.display = 'none';
+      tutorialTab.style.display = 'block';
+    });
+
+    // Volver a mostrar al hacer clic en pestaña
+    tutorialTab.addEventListener('click', function() {
+      tutorialBox.style.display = 'block';
+      tutorialTab.style.display = 'none';
+      tooltip.style.opacity = 0;
+    });
+
+    // Tooltip al pasar mouse (PC)
+    tutorialTab.addEventListener('mouseover', function(e) {
+      tooltip.style.left = (e.pageX + 10) + 'px';
+      tooltip.style.top = (e.pageY - 10) + 'px';
+      tooltip.style.opacity = 1;
+    });
+    tutorialTab.addEventListener('mouseout', function() {
+      tooltip.style.opacity = 0;
+    });
+
+    // Tooltip en móviles (toque rápido)
+    tutorialTab.addEventListener('touchstart', function() {
+      tooltip.style.left = (tutorialTab.offsetLeft + tutorialTab.offsetWidth + 10) + 'px';
+      tooltip.style.top = (tutorialTab.offsetTop + 10) + 'px';
+      tooltip.style.opacity = 1;
+      setTimeout(() => tooltip.style.opacity = 0, 2000);
+    });
   </script>
 </body>
 </html>
