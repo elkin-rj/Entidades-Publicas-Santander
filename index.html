@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mapa de Entidades Públicas en Santander</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <!-- Leaflet MarkerCluster -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"/>
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
+  <style>
+    body { margin:0; padding:0; font-family: Arial, sans-serif; }
+    #map { width: 100%; height: 100vh; }
+    .filter-box {
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      background: white;
+      padding: 10px;
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      z-index: 1000;
+    }
+    .filter-box select {
+      width: 220px;
+      padding: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <div class="filter-box">
+    <label for="municipioSelect"><b>Filtrar por municipio:</b></label><br>
+    <select id="municipioSelect">
+      <option value="Todos">Todos</option>
+    </select>
+  </div>
+
+  <script>
+    var map = L.map('map').setView([7.1193, -73.1198], 8);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    var markers = L.markerClusterGroup();
+    var allFeatures = [];
+    var municipios = new Set();
+
+    fetch("entidades.geojson")
+      .then(res => res.json())
+      .then(data => {
+        allFeatures = data.features;
+
+        allFeatures.forEach(f => {
+          let mun = f.properties.municipio || "Sin municipio";
+          municipios.add(mun);
+        });
+
+        var municipioSelect = document.getElementById('municipioSelect');
+        Array.from(municipios).sort().forEach(m => {
+          var option = document.createElement('option');
+          option.value = m;
+          option.textContent = m;
+          municipioSelect.appendChild(option);
+        });
+
+        mostrarPuntos("Todos");
+
+        municipioSelect.addEventListener("change", function() {
+          mostrarPuntos(this.value);
+        });
+      });
+
+    function mostrarPuntos(filtro) {
+      markers.clearLayers();
+      L.geoJSON(allFeatures, {
+        pointToLayer: function (feature, latlng) {
+          let mun = feature.properties.municipio || "Sin municipio";
+          if (filtro !== "Todos" && mun !== filtro) {
+            return null;
+          }
+          var popup = `
+            <b>📍 Nombre:</b> ${feature.properties.nombre || "Sin nombre"}<br>
+            <b>🏛️ Sector:</b> ${feature.properties.sector || "No especificado"}<br>
+            <b>🌍 Municipio:</b> ${mun}<br>
+            <b>📌 Dirección:</b> ${feature.properties.direccion || "No disponible"}
+          `;
+          return L.marker(latlng).bindPopup(popup);
+        }
+      }).eachLayer(l => { if (l) markers.addLayer(l); });
+      map.addLayer(markers);
+    }
+  </script>
+</body>
+</html>

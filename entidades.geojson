@@ -1,0 +1,7381 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5215686,
+          6.162366
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Aguada, Santander",
+        "sector": "Planeación",
+        "municipio": "Aguada",
+        "direccion": "Aguada, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5226056734197,
+          6.161943
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Aguada, Santander",
+        "sector": "Planeación",
+        "municipio": "Aguada",
+        "direccion": "Registraduría Civil de La Aguada, Carrera 4, 685527 Aguada, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5215686,
+          6.162366
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud Hermana Gertrudis De Aguada, Santander",
+        "sector": "Salud",
+        "municipio": "Aguada",
+        "direccion": "Aguada, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5215686,
+          6.162366
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Aguada, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Aguada",
+        "direccion": "Aguada, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9151617,
+          5.7587654
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Albania, Santander",
+        "sector": "Planeación",
+        "municipio": "Albania - Santander",
+        "direccion": "Albania, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9151617,
+          5.7587654
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Blanca Alicia Hernández De Albania, Santander",
+        "sector": "Salud",
+        "municipio": "Albania - Santander",
+        "direccion": "Albania, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9151617,
+          5.7587654
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Albania, Santander",
+        "sector": "Planeación",
+        "municipio": "Albania - Santander",
+        "direccion": "Albania, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9151617,
+          5.7587654
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Albania, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Albania - Santander",
+        "direccion": "Albania, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Aratoca, Santander",
+        "sector": "Planeación",
+        "municipio": "Aratoca",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.01855486925797,
+          6.6940323
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Aratoca, Santander",
+        "sector": "Planeación",
+        "municipio": "Aratoca",
+        "direccion": "Iglesia Nuestra señora de la Nieves, Calle 3, 682057 Aratoca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.01574,
+          6.696052
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Juan Pablo II De Aratoca, Santander",
+        "sector": "Salud",
+        "municipio": "Aratoca",
+        "direccion": "Hospital Juan Pablo II, 682057 Aratoca, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0190033,
+          6.6943562
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Aratoca, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Aratoca",
+        "direccion": "Bank of Bogotá, Calle 4 Carrera 5, 682057 Aratoca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6157219,
+          5.9314519
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Barbosa, Santander",
+        "sector": "Planeación",
+        "municipio": "Barbosa - Santander",
+        "direccion": "Alcaldía Barbosa, Carrera 8, 684511 Barbosa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.612740925,
+          5.93976505
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Barbosa, Santander",
+        "sector": "Planeación",
+        "municipio": "Barbosa - Santander",
+        "direccion": "Serviteca del Norte de Barbosa, Diagonal 18, 684511 Barbosa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6124368,
+          5.9326035
+        ]
+      },
+      "properties": {
+        "nombre": "Dirección De Tránsito Y Transporte De Barbosa, Santander",
+        "sector": "Transporte",
+        "municipio": "Barbosa - Santander",
+        "direccion": "Barbosa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6068185,
+          5.9570456
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Barbosa, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Barbosa - Santander",
+        "direccion": "Hotel Puerta de Santander, Troncal Central, 684511 Barbosa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6124368,
+          5.9326035
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Integrado San Bernardo De Barbosa, Santander",
+        "sector": "Salud",
+        "municipio": "Barbosa - Santander",
+        "direccion": "Barbosa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6124368,
+          5.9326035
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Barbosa, Santander",
+        "sector": "Función Pública",
+        "municipio": "Barbosa - Santander",
+        "direccion": "Barbosa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.612740925,
+          5.93976505
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Barbosa, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Barbosa - Santander",
+        "direccion": "Serviteca del Norte de Barbosa, Diagonal 18, 684511 Barbosa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Barichara, Santander",
+        "sector": "Planeación",
+        "municipio": "Barichara",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.225507,
+          6.634341
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Barichara, Santander",
+        "sector": "Planeación",
+        "municipio": "Barichara",
+        "direccion": "Taller de papel de Barichara, 684047 Barichara, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22282,
+          6.63572
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Barichara, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Barichara",
+        "direccion": "Barichara, VN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983437,
+          2.114077
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Juan De Dios De Barichara, Santander",
+        "sector": "Salud",
+        "municipio": "Barichara",
+        "direccion": "ESE Hospital, El Bordo, CA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4960213,
+          3.5848883
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Barichara, Santander",
+        "sector": "Función Pública",
+        "municipio": "Barichara",
+        "direccion": "Notaria Primera del Circulo de Yumbo, Carrera 3, Nuevo horizonte, 760501 Yumbo, VAC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Barichara, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Barichara",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Barrancabermeja, Santander",
+        "sector": "Planeación",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Cámara De Comercio De Barrancabermeja, Santander",
+        "sector": "Comercio, Industria y Turismo",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Barrancabermeja, Santander",
+        "sector": "Planeación",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Contraloría Municipal De Barrancabermeja, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Corporación Autónoma Regional Del Río Grande De La Magdalena, Santander",
+        "sector": "Ambiente y Desarrollo Sostenible",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. De Barrancabermeja, Santander",
+        "sector": "Salud",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Desarrollo Urbano De Barrancabermeja, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85472,
+          7.06528
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Barrancabermeja, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, BB, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Universitario San Rafael De Barrancabermeja, Santander",
+        "sector": "Salud",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86133059237133,
+          7.0680213
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Regional Del Magdalena Medio De Barrancabermeja, Santander",
+        "sector": "Salud",
+        "municipio": "Barrancabermeja",
+        "direccion": "Hospital Regional del Magdalena Medio, Carrera 16, 687031 Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Inspección De Tránsito Y Transporte De Barrancabermeja, Santander",
+        "sector": "Transporte",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Para El Fomento Del Deporte De Barrancabermeja, Santander",
+        "sector": "Deporte",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.851552,
+          7.064265
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Técnico Superior Industrial De Barrancabermeja, Santander",
+        "sector": "Educación",
+        "municipio": "Barrancabermeja",
+        "direccion": "Instituto Técnico Superior Industrial, 687033 Barrancabermeja, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 1 De Barrancabermeja, Santander",
+        "sector": "Función Pública",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 2 De Barrancabermeja, Santander",
+        "sector": "Función Pública",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86594212878828,
+          7.06264315
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Barrancabermeja, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Barrancabermeja",
+        "direccion": "Personeria, Calle 52, 687031 Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8525627,
+          7.0673313
+        ]
+      },
+      "properties": {
+        "nombre": "Piscícola San Silvestre De Barrancabermeja, Santander",
+        "sector": "Agricultura y Desarrollo Rural",
+        "municipio": "Barrancabermeja",
+        "direccion": "Barrancabermeja, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2835591,
+          6.9006397
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Betulia, Santander",
+        "sector": "Planeación",
+        "municipio": "Betulia - Santander",
+        "direccion": "Betulia, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2835591,
+          6.9006397
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Betulia, Santander",
+        "sector": "Planeación",
+        "municipio": "Betulia - Santander",
+        "direccion": "Betulia, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2835591,
+          6.9006397
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Juan De Dios De Betulia, Santander",
+        "sector": "Salud",
+        "municipio": "Betulia - Santander",
+        "direccion": "Betulia, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2835591,
+          6.9006397
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Betulia, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Betulia - Santander",
+        "direccion": "Betulia, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.770548,
+          5.9899805
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Bolívar, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Bolívar - Santander",
+        "direccion": "Bolívar, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.770548,
+          5.9899805
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Bolívar, Santander",
+        "sector": "Planeación",
+        "municipio": "Bolívar - Santander",
+        "direccion": "Bolívar, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.770548,
+          5.9899805
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Bolívar, Santander",
+        "sector": "Planeación",
+        "municipio": "Bolívar - Santander",
+        "direccion": "Bolívar, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.770548,
+          5.9899805
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Local Del Bolívar, Santander",
+        "sector": "Salud",
+        "municipio": "Bolívar - Santander",
+        "direccion": "Bolívar, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.770548,
+          5.9899805
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Bolívar, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Bolívar - Santander",
+        "direccion": "Bolívar, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.129974,
+          7.117758
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Bucaramanga, Santander",
+        "sector": "Planeación",
+        "municipio": "Bucaramanga",
+        "direccion": "Alcaldia Municipal de Bucaramanga, Comuna 15 - Centro, 680006 Bucaramanga, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1214,
+          7.10524
+        ]
+      },
+      "properties": {
+        "nombre": "Área Metropolitana De Bucaramanga, Santander",
+        "sector": "Planeación",
+        "municipio": "Bucaramanga",
+        "direccion": "Edif. Área Metropolitana de Bucaramanga, Comuna 7 - La Ciudadela, 680005 Bucaramanga, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55147,
+          6.23777
+        ]
+      },
+      "properties": {
+        "nombre": "Asamblea Departamental De Santander, Santander",
+        "sector": "Planeación",
+        "municipio": "Bucaramanga",
+        "direccion": "Liceo Asamblea Departamental, Medellín, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1327555,
+          6.5552954
+        ]
+      },
+      "properties": {
+        "nombre": "Lotería De Santander, Santander",
+        "sector": "Comercio, Industria y Turismo",
+        "municipio": "Bucaramanga",
+        "direccion": "Lotería Santander, Calle 12, 684031 San Gil, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.063721,
+          4.648204
+        ]
+      },
+      "properties": {
+        "nombre": "Cuerpo Oficial De Bomberos De Bucaramanga, Santander",
+        "sector": "Interior",
+        "municipio": "Bucaramanga",
+        "direccion": "Cuerpo Oficial de Bomberos de Bogotá, Bogotá, Bogotá, D.C., Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12315966432502,
+          7.1187784
+        ]
+      },
+      "properties": {
+        "nombre": "Cámara De Comercio De Bucaramanga, Santander",
+        "sector": "Comercio, Industria y Turismo",
+        "municipio": "Bucaramanga",
+        "direccion": "Cámara de Comercio de Bucaramanga, Carrera 19, Comuna 15 - Centro, 680006 Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16774862002836,
+          7.1032407
+        ]
+      },
+      "properties": {
+        "nombre": "Central De Abastos De Bucaramanga, Santander",
+        "sector": "Agricultura y Desarrollo Rural",
+        "municipio": "Bucaramanga",
+        "direccion": "Central de Abastos de Bucaramanga, Comuna 4 - Occidental, Bucaramanga, Metropolitana, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.53,
+          7.9097222
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Bucaramanga, Santander",
+        "sector": "Planeación",
+        "municipio": "Bucaramanga",
+        "direccion": "COLEGIO CONCEJO DE CUCUTA, Calle 6, Comuna 7 - Noroccidental, 540013 Perímetro Urbano Cúcuta, NSA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5037483,
+          7.885585
+        ]
+      },
+      "properties": {
+        "nombre": "Contraloría Departamental De Santander, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Bucaramanga",
+        "direccion": "Secretaria de Hacienda Departamental, Calle 11, Comuna 1 - Centro, 540006 Perímetro Urbano Cúcuta, NSA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13004142379168,
+          7.117717349999999
+        ]
+      },
+      "properties": {
+        "nombre": "Contraloría Municipal De Bucaramanga, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Bucaramanga",
+        "direccion": "Alcaldia Municipal de Bucaramanga, Avenida Calle 35, Comuna 15 - Centro, 680006 Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7017546,
+          3.5408804
+        ]
+      },
+      "properties": {
+        "nombre": "Corporación Autónoma Regional Para La Defensa De La Meseta De Bucaramanga, Santander",
+        "sector": "Ambiente y Desarrollo Sostenible",
+        "municipio": "Bucaramanga",
+        "direccion": "Corporación para el Desarrollo Sostenible del Área de Manejo Especial la Macarena - Cormacarena. Regional Ariari, Calle 13, 504001 Granada, MET, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.129068,
+          7.113744
+        ]
+      },
+      "properties": {
+        "nombre": "Dirección De Tránsito De Bucaramanga, Santander",
+        "sector": "Transporte",
+        "municipio": "Bucaramanga",
+        "direccion": "Bomberos de Bucaramanga, 680001 Bucaramanga, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.118251,
+          7.117136
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Aseo De Bucaramanga, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Bucaramanga",
+        "direccion": "Bucaramanga, BU, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.118251,
+          7.117136
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Bucaramanga, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Bucaramanga",
+        "direccion": "Bucaramanga, BU, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12581749448822,
+          7.1249672
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. Electrificadora De Santander, Santander",
+        "sector": "Minas y Energía",
+        "municipio": "Bucaramanga",
+        "direccion": "Electrificadora de Santander - ESSA, Calle 24, Comuna 4 - Occidental, 680006 Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.118251,
+          7.117136
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Telecomunicaciones De Bucaramanga, Santander",
+        "sector": "Tecnologías de la Información y Comunicaciones",
+        "municipio": "Bucaramanga",
+        "direccion": "Bucaramanga, BU, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.130835,
+          7.14603
+        ]
+      },
+      "properties": {
+        "nombre": "Metrolinea De Bucaramanga, Santander",
+        "sector": "Transporte",
+        "municipio": "Bucaramanga",
+        "direccion": "Portal Norte Metrolínea, 680001 Bucaramanga, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.118251,
+          7.117136
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Alcantarillado De Santander, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Bucaramanga",
+        "direccion": "Bucaramanga, BU, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9067349,
+          6.9905471
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Instituto De Salud De Bucaramanga, Santander",
+        "sector": "Salud",
+        "municipio": "Bucaramanga",
+        "direccion": "E.S.E. Centro de Salud Santa Bárbara, Carrera 3 carrera 3, 681037 Santa Bárbara, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12974951966292,
+          7.11619455
+        ]
+      },
+      "properties": {
+        "nombre": "Gobernación De Santander, Santander",
+        "sector": "Planeación",
+        "municipio": "Bucaramanga",
+        "direccion": "Gobernacion de Santander, Carrera 11, Comuna 15 - Centro, 680006 Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13079473403582,
+          7.110754999999999
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Psiquiátrico San Camilo De Bucaramanga, Santander",
+        "sector": "Salud",
+        "municipio": "Bucaramanga",
+        "direccion": "Hospital Psiquiátrico San Camilo, Carrera 7, Comuna 5 - García Rovira, 680006 Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.114246,
+          7.128387
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Universitario De Santander, Santander",
+        "sector": "Salud",
+        "municipio": "Bucaramanga",
+        "direccion": "Hospital Universitario de Santander, 680001 Bucaramanga, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.105974,
+          7.100191
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto De La Juventud, El Deporte Y La Recreación De Bucaramanga, Santander",
+        "sector": "Deporte",
+        "municipio": "Bucaramanga",
+        "direccion": "Estadio de Atletismo La Flora - Luis Enrique Figueroa Rey, ViaDucto La Florida, 680011 Bucaramanga, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.29058920672027,
+          6.5379795
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto De Vivienda Municipal De Bucaramanga, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Bucaramanga",
+        "direccion": "Instituto de Salud Municipal Palmar, Calle 5 CR 3, 683587 Palmar, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0711227010239,
+          6.700965950000001
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Financiero Para El Desarrollo De Santander, Santander",
+        "sector": "Hacienda y Crédito Público",
+        "municipio": "Bucaramanga",
+        "direccion": "Instituto Técnico para el Desarrollo Rural Idear, Jordan - Las Vueltas - San Gil, 684017 Aratoca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0770173,
+          4.5977866
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Municipal De Cultura Y Turismo De Bucaramanga, Santander",
+        "sector": "Cultura",
+        "municipio": "Bucaramanga",
+        "direccion": "Instituto Distrital de Cultura y Turismo, Carrera 8, UPZs La Candelaria, 111711 Bogota, Capital District, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.908781,
+          4.739043
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Municipal De Empleo Y Fomento Empresarial De Bucaramanga, Santander",
+        "sector": "Trabajo",
+        "municipio": "Bucaramanga",
+        "direccion": "Instituto Municipal de Transito y Transporte, Comuna 2, 762027 Cabecera Municipal Cartago, VC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1627801,
+          7.0966381
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Universitario De La Paz De Santander, Santander",
+        "sector": "Educación",
+        "municipio": "Bucaramanga",
+        "direccion": "Comuna 5 - García Rovira, Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22029616856784,
+          4.582600149999999
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 1 De Bucaramanga, Santander",
+        "sector": "Función Pública",
+        "municipio": "Bucaramanga",
+        "direccion": "Notaría 1 de Soacha, Carrera 8, Soacha Central, 250051 Soacha ciudad, CUN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05131695,
+          6.985031749999999
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Bucaramanga, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Bucaramanga",
+        "direccion": "Personería Municipal de Piedecuesta, Calle 10, 681011 Piedecuesta, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.118251,
+          7.117136
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Santander, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Bucaramanga",
+        "direccion": "Bucaramanga, BU, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12352394698704,
+          7.1051164
+        ]
+      },
+      "properties": {
+        "nombre": "Unidades Tecnológicas De Santander, Santander",
+        "sector": "Educación",
+        "municipio": "Bucaramanga",
+        "direccion": "Unidades Tecnológicas de Santander, Diagonal 14, Comuna 7 - La Ciudadela, 680005 Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1198651804286,
+          7.1409311
+        ]
+      },
+      "properties": {
+        "nombre": "Universidad Industrial De Santander, Santander",
+        "sector": "Educación",
+        "municipio": "Bucaramanga",
+        "direccion": "Universidad Industrial de Santander, Calle 9, Comuna 3 - San Francisco, 680001 Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2463975,
+          6.5933521
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Cabrera, Santander",
+        "sector": "Planeación",
+        "municipio": "Cabrera - Santander",
+        "direccion": "Cabrera, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2463975,
+          6.5933521
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud San Pedro De Cabrera, Santander",
+        "sector": "Salud",
+        "municipio": "Cabrera - Santander",
+        "direccion": "Cabrera, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2463975,
+          6.5933521
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Cabrera, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Cabrera - Santander",
+        "direccion": "Cabrera, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24633957849021,
+          6.5932744
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Cabrera, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Cabrera - Santander",
+        "direccion": "Parque pincipal de cabrera, 683501 Cabrera, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9459805,
+          7.3479163
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De California, Santander",
+        "sector": "Planeación",
+        "municipio": "California",
+        "direccion": "Alcaldia California, Carrera 6, 680517 California, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08064,
+          4.62653
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De California, Santander",
+        "sector": "Planeación",
+        "municipio": "California",
+        "direccion": "Concejo de Bogotá, Avenida Eldorado, 111311 Bogotá, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983437,
+          2.114077
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Antonio De California, Santander",
+        "sector": "Salud",
+        "municipio": "California",
+        "direccion": "ESE Hospital, El Bordo, CA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.473649,
+          6.288573
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. De California, Santander",
+        "sector": "Salud",
+        "municipio": "California",
+        "direccion": "ESE Sanatorio de Contratacion Calle 3 # 2 - 72, 683071 contratación, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De California, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "California",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.698682,
+          6.529593
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Capitanejo, Santander",
+        "sector": "Planeación",
+        "municipio": "Capitanejo",
+        "direccion": "Alcaldía Municipal de Capitanejo, 151040 Capitanejo, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.69649489991957,
+          6.52851325
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Capitanejo, Santander",
+        "sector": "Planeación",
+        "municipio": "Capitanejo",
+        "direccion": "Estación de Policía de Capitanejo, Calle 3, 681541 Capitanejo, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6982619,
+          6.5291798
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Bartolomé De Capitanejo, Santander",
+        "sector": "Salud",
+        "municipio": "Capitanejo",
+        "direccion": "Capitanejo, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.69649489991957,
+          6.52851325
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Capitanejo, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Capitanejo",
+        "direccion": "Estación de Policía de Capitanejo, Calle 3, 681541 Capitanejo, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.62604938937824,
+          6.6269681
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Carcasí, Santander",
+        "sector": "Planeación",
+        "municipio": "Carcasí",
+        "direccion": "ALCALDIA CARCASI, Calle 2, 681527 Carcasi, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.62724426019605,
+          6.628856450000001
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Carcasí, Santander",
+        "sector": "Planeación",
+        "municipio": "Carcasí",
+        "direccion": "SAN JUAN DE SAHAGUN, Carrera 5, 681527 Carcasí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.57744371303738,
+          6.67682475
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Carcasí, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Carcasí",
+        "direccion": "Escuela Veinte de Julio, Calle 6, Carcasí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9733945,
+          6.7530594
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Cepitá, Santander",
+        "sector": "Planeación",
+        "municipio": "Cepitá",
+        "direccion": "Cepitá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.97325284816503,
+          6.753543
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Cepitá, Santander",
+        "sector": "Planeación",
+        "municipio": "Cepitá",
+        "direccion": "Templo Católico de la Inmaculada Concepción, Calle 4, 682051 Cepitá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9733945,
+          6.7530594
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Cepitá, Santander",
+        "sector": "Salud",
+        "municipio": "Cepitá",
+        "direccion": "Cepitá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9733945,
+          6.7530594
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Aristides Fernández Isabella De Cepitá, Santander",
+        "sector": "Salud",
+        "municipio": "Cepitá",
+        "direccion": "Cepitá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.97325284816503,
+          6.753543
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Cepitá, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Cepitá",
+        "direccion": "Templo Católico de la Inmaculada Concepción, Calle 4, 682051 Cepitá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6939627,
+          6.8435992
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Cerrito, Santander",
+        "sector": "Planeación",
+        "municipio": "Cerrito",
+        "direccion": "Cerrito, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6939627,
+          6.8435992
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Cerrito, Santander",
+        "sector": "Planeación",
+        "municipio": "Cerrito",
+        "direccion": "Cerrito, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6939627,
+          6.8435992
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Cerrito, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Cerrito",
+        "direccion": "Cerrito, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14891542173592,
+          6.2878987
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Charalá, Santander",
+        "sector": "Planeación",
+        "municipio": "Charalá",
+        "direccion": "Alcaldía de Charalá, Calle 24, 682559 Charalá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1462148467004,
+          6.2826599
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Charalá, Santander",
+        "sector": "Planeación",
+        "municipio": "Charalá",
+        "direccion": "Salón del Reino de los testigos de Jehová, Carrera 14, 682559 Charalá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.142967,
+          6.290343
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Luis Carlos Galán Sarmiento De Charalá, Santander",
+        "sector": "Salud",
+        "municipio": "Charalá",
+        "direccion": "E.S.E. Hospital Luis Carlos Galan Sarmiento, 682559 Charalá, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.573709,
+          6.271238
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto De Tránsito Y Transporte De Charalá, Santander",
+        "sector": "Transporte",
+        "municipio": "Charalá",
+        "direccion": "Puente Transito, 050027, AN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Charalá, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Charalá",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9682259,
+          7.2807986
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Charta, Santander",
+        "sector": "Planeación",
+        "municipio": "Charta",
+        "direccion": "Charta, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.02902574248205,
+          7.249044850000001
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Charta, Santander",
+        "sector": "Planeación",
+        "municipio": "Charta",
+        "direccion": "capilla corregimiento de pirita, Calle 2, Charta, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9682259,
+          7.2807986
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Charta, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Charta",
+        "direccion": "Charta, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9682259,
+          7.2807986
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Ucata De Charta, Santander",
+        "sector": "Salud",
+        "municipio": "Charta",
+        "direccion": "Charta, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Chima, Santander",
+        "sector": "Planeación",
+        "municipio": "Chima",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.371979,
+          6.3439976
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Chima, Santander",
+        "sector": "Planeación",
+        "municipio": "Chima",
+        "direccion": "Juzgado promiscuo Municipal de Chima, Calle 5 4-74, 683007 Chima, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983437,
+          2.114077
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Roque De Chima, Santander",
+        "sector": "Salud",
+        "municipio": "Chima",
+        "direccion": "ESE Hospital, El Bordo, CA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Chima, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Chima",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Chipatá, Santander",
+        "sector": "Planeación",
+        "municipio": "Chipatá",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63718,
+          6.06196
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Chipatá, Santander",
+        "sector": "Planeación",
+        "municipio": "Chipatá",
+        "direccion": "Chipata, CP, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6372532,
+          6.0624774
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud Divino Niño Jesús De Chipatá, Santander",
+        "sector": "Salud",
+        "municipio": "Chipatá",
+        "direccion": "Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6372532,
+          6.0624774
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Chipatá, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Chipatá",
+        "direccion": "Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9490104,
+          6.3136766
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Cimitarra, Santander",
+        "sector": "Planeación",
+        "municipio": "Cimitarra",
+        "direccion": "Alcaldía Cimitarra, Calle 6, 686057 Cimitarra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9496809,
+          6.3145415
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Cimitarra, Santander",
+        "sector": "Planeación",
+        "municipio": "Cimitarra",
+        "direccion": "Cimitarra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9496809,
+          6.3145415
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Cimitarra, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Cimitarra",
+        "direccion": "Cimitarra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9496809,
+          6.3145415
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Integrado San Juan De Cimitarra, Santander",
+        "sector": "Salud",
+        "municipio": "Cimitarra",
+        "direccion": "Cimitarra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9496809,
+          6.3145415
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Municipal Para El Fomento Del Deporte, La Recreación De Cimitarra, Santander",
+        "sector": "Deporte",
+        "municipio": "Cimitarra",
+        "direccion": "Cimitarra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9496809,
+          6.3145415
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Cimitarra, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Cimitarra",
+        "direccion": "Cimitarra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.694484,
+          6.7682934
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Concepción, Santander",
+        "sector": "Planeación",
+        "municipio": "Concepción - Santander",
+        "direccion": "Concepción, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.69380111582737,
+          6.768296149999999
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Concepción, Santander",
+        "sector": "Planeación",
+        "municipio": "Concepción - Santander",
+        "direccion": "Estacion de policia concepcion, Carrera 3, 681511 Concepción, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.694484,
+          6.7682934
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Rafael De Concepción, Santander",
+        "sector": "Salud",
+        "municipio": "Concepción - Santander",
+        "direccion": "Concepción, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.69380111582737,
+          6.768296149999999
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Concepción, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Concepción - Santander",
+        "direccion": "Estacion de policia concepcion, Carrera 3, 681511 Concepción, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24079282342211,
+          6.35626875
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Confines, Santander",
+        "sector": "Planeación",
+        "municipio": "Confines",
+        "direccion": "Alcaldia de Confines, Calle 5 Calle5, 683531 Confines, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2409632,
+          6.3559746
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Confines, Santander",
+        "sector": "Planeación",
+        "municipio": "Confines",
+        "direccion": "Confines, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24075403065328,
+          6.3554747
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud San Cayetano De Confines, Santander",
+        "sector": "Salud",
+        "municipio": "Confines",
+        "direccion": "E.S.E. Centro de Salud San Cayetano de Confines, Calle 4 4-75, 683531 Confines, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2409632,
+          6.3559746
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Confines, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Confines",
+        "direccion": "Confines, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4742074,
+          6.2909307
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Contratación, Santander",
+        "sector": "Planeación",
+        "municipio": "Contratación",
+        "direccion": "Alcaldia de Contratacion, Carrera 4 Carrera 4 # 6 -51, 683071 contratación, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.473649,
+          6.288573
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Contratación, Santander",
+        "sector": "Planeación",
+        "municipio": "Contratación",
+        "direccion": "ESE Sanatorio de Contratacion Calle 3 # 2 - 72, 683071 contratación, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4745564,
+          6.290737
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Contratación, Santander",
+        "sector": "Función Pública",
+        "municipio": "Contratación",
+        "direccion": "contratación, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4745564,
+          6.290737
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Contratación, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Contratación",
+        "direccion": "contratación, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.473649,
+          6.288573
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Sanatorio De Contratación, Santander",
+        "sector": "Salud",
+        "municipio": "Contratación",
+        "direccion": "ESE Sanatorio de Contratacion Calle 3 # 2 - 72, 683071 contratación, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.04098715815199,
+          6.29469855
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Coromoro, Santander",
+        "sector": "Planeación",
+        "municipio": "Coromoro",
+        "direccion": "Alcaldía Coromoro, Carrera 5 5-22, 682539 Coromoro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.03995663451607,
+          6.2951487
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Coromoro, Santander",
+        "sector": "Planeación",
+        "municipio": "Coromoro",
+        "direccion": "Plaza de Feria de Ganado Coromoro, Carrera 4, 682539 Coromoro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0407055,
+          6.2956298
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud De Coromoro, Santander",
+        "sector": "Salud",
+        "municipio": "Coromoro",
+        "direccion": "Coromoro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0418491,
+          6.2945997
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Coromoro, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Coromoro",
+        "direccion": "Personería Coromoro, Carrera 6 4-45, 682539 Coromoro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Curití, Santander",
+        "sector": "Planeación",
+        "municipio": "Curití",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0677827,
+          6.6072611
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Curití, Santander",
+        "sector": "Planeación",
+        "municipio": "Curití",
+        "direccion": "Hotel Casona de San Pedro, Carrera 7 9-30, 682041 Curití, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.06809,
+          6.60519
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Curití, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Curití",
+        "direccion": "Curití, CU, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.335262,
+          6.441577
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Integrado San Roque De Curití, Santander",
+        "sector": "Salud",
+        "municipio": "Curití",
+        "direccion": "Hospital Integrado San Roque, Carrera 2 4-20, 683561 Simacota, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Curití, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Curití",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.51078102851659,
+          6.6985232
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía El Carmen De Chucurí, Santander",
+        "sector": "Planeación",
+        "municipio": "El Carmen De Chucurí",
+        "direccion": "ALCALDIA, Carrera 3 CARRERA 3, El Carmen de Chucurí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5115695,
+          6.6986924
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De El Carmen De Chucurí, Santander",
+        "sector": "Planeación",
+        "municipio": "El Carmen De Chucurí",
+        "direccion": "El Carmen de Chucurí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.50956349736816,
+          6.70175585
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital El Carmen De Chucurí, Santander",
+        "sector": "Salud",
+        "municipio": "El Carmen De Chucurí",
+        "direccion": "ESE HOSPITAL DEL CARMEN, Carrera 3, El Carmen de Chucurí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5115695,
+          6.6986924
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De El Carmen De Chucurí, Santander",
+        "sector": "Función Pública",
+        "municipio": "El Carmen De Chucurí",
+        "direccion": "El Carmen de Chucurí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5115695,
+          6.6986924
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De El Carmen De Chucurí, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "El Carmen De Chucurí",
+        "direccion": "El Carmen de Chucurí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4975606,
+          6.2452658
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De El Guacamayo, Santander",
+        "sector": "Planeación",
+        "municipio": "El Guacamayo",
+        "direccion": "El Guacamayo, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4975606,
+          6.2452658
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud Juan Soleri De El Guacamayo, Santander",
+        "sector": "Salud",
+        "municipio": "El Guacamayo",
+        "direccion": "El Guacamayo, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60085245,
+          6.28630865
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De El Guacamayo, Santander",
+        "sector": "Planeación",
+        "municipio": "El Guacamayo",
+        "direccion": "Cancha de Fútbol, Calle 3, El Guacamayo, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4975606,
+          6.2452658
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De El Guacamayo, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "El Guacamayo",
+        "direccion": "El Guacamayo, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8149932,
+          6.0557588
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía El Peñón, Santander",
+        "sector": "Planeación",
+        "municipio": "El Peñón - Santander",
+        "direccion": "El Peñón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.81515326305845,
+          6.05646135
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De El Peñón, Santander",
+        "sector": "Planeación",
+        "municipio": "El Peñón - Santander",
+        "direccion": "Centro de Salud El Peñón, Calle 6, 685027 El Peñón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.81515326305845,
+          6.05646135
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De El Peñón, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "El Peñón - Santander",
+        "direccion": "Centro de Salud El Peñón, Calle 6, 685027 El Peñón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.203007,
+          7.472646
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía El Playón, Santander",
+        "sector": "Planeación",
+        "municipio": "El Playón",
+        "direccion": "Alcaldia municipal, 687501 Municipio de El Playon, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20254568743135,
+          7.4669181
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De El Playón, Santander",
+        "sector": "Planeación",
+        "municipio": "El Playón",
+        "direccion": "Estacion de servicio el Playon, Carrera 8, 687501 Municipio de El Playon, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983437,
+          2.114077
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Santo Domingo Savio De El Playón, Santander",
+        "sector": "Salud",
+        "municipio": "El Playón",
+        "direccion": "ESE Hospital, El Bordo, CA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20325721427027,
+          7.47371985
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De El Playón, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "El Playón",
+        "direccion": "Estacion de Policia, Carrera 5, 687501 Municipio de El Playon, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.853678,
+          7.066809
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. Cooperativa De Encino, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Encino",
+        "direccion": "Universidad Cooperativa de Colombia, 687033 Barrancabermeja, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.09913625629042,
+          6.1382388
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Encino, Santander",
+        "sector": "Planeación",
+        "municipio": "Encino",
+        "direccion": "Alcaldia Encino, Carrera 3 Calle 5, 682541 Encino, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14930910000001,
+          6.1474806
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Encino, Santander",
+        "sector": "Planeación",
+        "municipio": "Encino",
+        "direccion": "Escuela de la Vereda de Pericos, Charalá - Encino, Encino, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4631981835116,
+          5.2599918
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud De Encino, Santander",
+        "sector": "Salud",
+        "municipio": "Encino",
+        "direccion": "E.S.E. Centro de salud San Rafael de Umbita sede Chuscal, Vía Umbita - Tibana, 153260 Úmbita, BOY, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14930910000001,
+          6.1474806
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Encino, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Encino",
+        "direccion": "Escuela de la Vereda de Pericos, Charalá - Encino, Encino, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.69972,
+          6.668148
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Enciso, Santander",
+        "sector": "Planeación",
+        "municipio": "Enciso",
+        "direccion": "ALCALDIA MUNICPAL DE ENCISO, 682027 Enciso, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13961471565798,
+          4.670561599999999
+        ]
+      },
+      "properties": {
+        "nombre": "Centro Provincial De Gestión Agroempresarial De La Provincia De García Rovira, Santander",
+        "sector": "Agricultura y Desarrollo Rural",
+        "municipio": "Enciso",
+        "direccion": "SENA Centro de Gestión de Mercados, Logística y Tecnologías de la Información, Calle 19A 96c-40, Fontibón, 110921 Bogota, Capital District, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.70010722327771,
+          6.6680572
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Enciso, Santander",
+        "sector": "Planeación",
+        "municipio": "Enciso",
+        "direccion": "HOSPITAL E.S.E DE ENCISO, Carrera 5, 682027 Enciso, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.64407183323317,
+          6.5755195
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud Jesús De Nazareth De Enciso, Santander",
+        "sector": "Salud",
+        "municipio": "Enciso",
+        "direccion": "E.S.E CENTRO DE SALUD SAN MIGUEL, Carrera 2 2, 681557 San Miguel, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.70010722327771,
+          6.6680572
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Enciso, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Enciso",
+        "direccion": "HOSPITAL E.S.E DE ENCISO, Carrera 5, 682027 Enciso, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9709342,
+          5.8024191
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Florián, Santander",
+        "sector": "Planeación",
+        "municipio": "Florián",
+        "direccion": "Florián, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9709342,
+          5.8024191
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Florián, Santander",
+        "sector": "Planeación",
+        "municipio": "Florián",
+        "direccion": "Florián, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9709342,
+          5.8024191
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. San José De Florián, Santander",
+        "sector": "Salud",
+        "municipio": "Florián",
+        "direccion": "Florián, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9709342,
+          5.8024191
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Florián, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Florián",
+        "direccion": "Florián, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0861193882223,
+          7.06313375
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Floridablanca, Santander",
+        "sector": "Planeación",
+        "municipio": "Floridablanca",
+        "direccion": "Alcaldía de Floridablanca, Calle 5, Comuna Florida - Casco Antiguo, 681004 Floridablanca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.10536567492285,
+          7.1170437
+        ]
+      },
+      "properties": {
+        "nombre": "Banco Inmobiliario De Floridablanca, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Floridablanca",
+        "direccion": "Banco de Bogota, Carrera 42, Comuna 12 - Cabecera del Llano, 680003 Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.134908,
+          6.553476
+        ]
+      },
+      "properties": {
+        "nombre": "Casa De La Cultura Piedra Del Sol De Floridablanca, Santander",
+        "sector": "Cultura",
+        "municipio": "Floridablanca",
+        "direccion": "Puente Casa de Mercado, 684037, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.53,
+          7.9097222
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Floridablanca, Santander",
+        "sector": "Planeación",
+        "municipio": "Floridablanca",
+        "direccion": "COLEGIO CONCEJO DE CUCUTA, Calle 6, Comuna 7 - Noroccidental, 540013 Perímetro Urbano Cúcuta, NSA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12983481730262,
+          7.10507345
+        ]
+      },
+      "properties": {
+        "nombre": "Contraloría Municipal Floridablanca, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Floridablanca",
+        "direccion": "Torres Contraloría, Comuna 7 - La Ciudadela, 680011 Bucaramanga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73287795721065,
+          6.699316400000001
+        ]
+      },
+      "properties": {
+        "nombre": "Dirección De Tránsito Y Transporte De Floridablanca, Santander",
+        "sector": "Transporte",
+        "municipio": "Floridablanca",
+        "direccion": "Tránsito y Transporte Málaga, Calle 12, 682027 Málaga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08644,
+          7.06222
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Floridablanca, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Floridablanca",
+        "direccion": "Floridablanca, FL, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13197289560664,
+          4.6881097
+        ]
+      },
+      "properties": {
+        "nombre": "Escuela De Capacitación Municipal De Floridablanca, Santander",
+        "sector": "Educación",
+        "municipio": "Floridablanca",
+        "direccion": "Escuela de Operaciones y Capacitacion de Copa Airlines, Carrera 103 25f-38, Fontibón, 110921 Bogota, Capital District, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08842316894095,
+          7.06086145
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Juan De Dios De Floridablanca, Santander",
+        "sector": "Salud",
+        "municipio": "Floridablanca",
+        "direccion": "E.S.E Hospital San Juan de Dios de Floridablanca, Carrera 5, Comuna Florida - Casco Antiguo, 681004 Floridablanca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0711227010239,
+          6.700965950000001
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Municipal Para El Deporte Y La Recreación De Floridablanca, Santander",
+        "sector": "Deporte",
+        "municipio": "Floridablanca",
+        "direccion": "Instituto Técnico para el Desarrollo Rural Idear, Jordan - Las Vueltas - San Gil, 684017 Aratoca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22029616856784,
+          4.582600149999999
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 1 De Floridablanca, Santander",
+        "sector": "Función Pública",
+        "municipio": "Floridablanca",
+        "direccion": "Notaría 1 de Soacha, Carrera 8, Soacha Central, 250051 Soacha ciudad, CUN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05131695,
+          6.985031749999999
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Floridablanca, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Floridablanca",
+        "direccion": "Personería Municipal de Piedecuesta, Calle 10, 681011 Piedecuesta, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.26152314407315,
+          6.4707226
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Galán, Santander",
+        "sector": "Planeación",
+        "municipio": "Galán",
+        "direccion": "Alcaldía Municipal de El Socorro, Calle 15, 683551 El Socorro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.289556,
+          6.639382
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Galán, Santander",
+        "sector": "Planeación",
+        "municipio": "Galán",
+        "direccion": "SAN JUAN DE DIOS, 684051 Galán, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.289556,
+          6.639382
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Galán, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Galán",
+        "direccion": "SAN JUAN DE DIOS, 684051 Galán, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983437,
+          2.114077
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Juan De Dios De Galán, Santander",
+        "sector": "Salud",
+        "municipio": "Galán",
+        "direccion": "ESE Hospital, El Bordo, CA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4960213,
+          3.5848883
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Galán, Santander",
+        "sector": "Función Pública",
+        "municipio": "Galán",
+        "direccion": "Notaria Primera del Circulo de Yumbo, Carrera 3, Nuevo horizonte, 760501 Yumbo, VAC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Galán, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Galán",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3453501,
+          5.9458568
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Gámbita, Santander",
+        "sector": "Planeación",
+        "municipio": "Gámbita",
+        "direccion": "Gámbita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.34308522055501,
+          5.94658785
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Gámbita, Santander",
+        "sector": "Planeación",
+        "municipio": "Gámbita",
+        "direccion": "Centro de Salud Caicedo y Florez, Calle 5, 683031 Gámbita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3453501,
+          5.9458568
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Gámbita, Santander",
+        "sector": "Función Pública",
+        "municipio": "Gámbita",
+        "direccion": "Gámbita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3848853260301,
+          5.86793755
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Gámbita, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Gámbita",
+        "direccion": "Iglesia de Ntra Señora de Fátima, Calle 8, La Palma, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1689196,
+          7.0732333
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Girón, Santander",
+        "sector": "Planeación",
+        "municipio": "Girón",
+        "direccion": "Girón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1689196,
+          7.0732333
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Clínica De Girón, Santander",
+        "sector": "Salud",
+        "municipio": "Girón",
+        "direccion": "Girón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1689196,
+          7.0732333
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Girón, Santander",
+        "sector": "Planeación",
+        "municipio": "Girón",
+        "direccion": "Girón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1689196,
+          7.0732333
+        ]
+      },
+      "properties": {
+        "nombre": "Contraloría Municipal De Girón, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Girón",
+        "direccion": "Girón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16981,
+          7.0682
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Girón, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Girón",
+        "direccion": "Girón, GI, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1689196,
+          7.0732333
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Girón, Santander",
+        "sector": "Función Pública",
+        "municipio": "Girón",
+        "direccion": "Girón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1689196,
+          7.0732333
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Girón, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Girón",
+        "direccion": "Girón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8558373,
+          6.8756088
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Guaca, Santander",
+        "sector": "Planeación",
+        "municipio": "Guaca",
+        "direccion": "Alcaldia de Guaca, Vía Curos - Málaga, 681048 Guaca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85454748599652,
+          6.8776834
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Guaca, Santander",
+        "sector": "Planeación",
+        "municipio": "Guaca",
+        "direccion": "Plaza de mercado, Carrera 7, 681048 Guaca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8557642,
+          6.8760761
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Santa Ana De Guaca, Santander",
+        "sector": "Salud",
+        "municipio": "Guaca",
+        "direccion": "Guaca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85454748599652,
+          6.8776834
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Guaca, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Guaca",
+        "direccion": "Plaza de mercado, Carrera 7, 681048 Guaca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4181815,
+          6.2468169
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Guadalupe, Santander",
+        "sector": "Planeación",
+        "municipio": "Guadalupe - Santander",
+        "direccion": "Guadalupe, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4181815,
+          6.2468169
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Guadalupe, Santander",
+        "sector": "Planeación",
+        "municipio": "Guadalupe - Santander",
+        "direccion": "Guadalupe, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4181815,
+          6.2468169
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Nuestra Señora De Guadalupe, Santander",
+        "sector": "Salud",
+        "municipio": "Guadalupe - Santander",
+        "direccion": "Guadalupe, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4181815,
+          6.2468169
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Guadalupe, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Guadalupe - Santander",
+        "direccion": "Guadalupe, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3212326,
+          6.3083058
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Guapotá, Santander",
+        "sector": "Planeación",
+        "municipio": "Guapotá",
+        "direccion": "Guapotá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.31472847927694,
+          6.302027199999999
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Guapotá, Santander",
+        "sector": "Planeación",
+        "municipio": "Guapotá",
+        "direccion": "cerro de los milagros - guapota - parroquia san cayetano, 683017 Guapotá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.32256095176672,
+          6.3126049
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Guapotá, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Guapotá",
+        "direccion": "Cancha de Futbol, 683017 Guapotá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3212326,
+          6.3083058
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. San Cayetano De Guapotá, Santander",
+        "sector": "Salud",
+        "municipio": "Guapotá",
+        "direccion": "Guapotá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6997882,
+          5.9542651
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Guavatá, Santander",
+        "sector": "Planeación",
+        "municipio": "Guavatá",
+        "direccion": "Guavatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.704358,
+          5.948427
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Guavatá, Santander",
+        "sector": "Planeación",
+        "municipio": "Guavatá",
+        "direccion": "Instituto Técnico Agropecuario de Guavatá, 684507 Guavatá, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6997882,
+          5.9542651
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud San José De Guavatá, Santander",
+        "sector": "Salud",
+        "municipio": "Guavatá",
+        "direccion": "Guavatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.749459,
+          5.926396
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Guavatá, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Guavatá",
+        "direccion": "Guavatá - Sucre, 685047, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5725056,
+          6.0254017
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Güepsa, Santander",
+        "sector": "Planeación",
+        "municipio": "Güepsa",
+        "direccion": "Güepsa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5725056,
+          6.0254017
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud San Roque De Güepsa, Santander",
+        "sector": "Salud",
+        "municipio": "Güepsa",
+        "direccion": "Güepsa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5729537,
+          6.0252136
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Güepsa, Santander",
+        "sector": "Planeación",
+        "municipio": "Güepsa",
+        "direccion": "Parroquia de San Roque, Carrera 5, 154460 Güepsa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57245921552686,
+          6.02344145
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Güepsa, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Güepsa",
+        "direccion": "Cancha de Micro, Carrera 6, 154460 Güepsa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5725056,
+          6.0254017
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Güepsa, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Güepsa",
+        "direccion": "Güepsa, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.765856,
+          11.064673
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Hato, Santander",
+        "sector": "Planeación",
+        "municipio": "Hato",
+        "direccion": "Alcaldía de Hatonuevo, Carrera 21, 443027 Hatonuevo, LG, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08064,
+          4.62653
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Hato, Santander",
+        "sector": "Planeación",
+        "municipio": "Hato",
+        "direccion": "Concejo de Bogotá, Avenida Eldorado, 111311 Bogotá, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Hato, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Hato",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.785905,
+          5.875191
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Jesús María, Santander",
+        "sector": "Planeación",
+        "municipio": "Jesús María",
+        "direccion": "Estación de Entrega Jesús María, 684557, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.781863,
+          5.874974
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Jesús María, Santander",
+        "sector": "Planeación",
+        "municipio": "Jesús María",
+        "direccion": "Casa de Mercado, 684557 Jesús María, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7827775,
+          5.8765585
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Jesús María, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Jesús María",
+        "direccion": "Jesús María, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Jordán, Santander",
+        "sector": "Planeación",
+        "municipio": "Jordán",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.09692347220764,
+          6.732462849999999
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Jordán, Santander",
+        "sector": "Planeación",
+        "municipio": "Jordán",
+        "direccion": "Puesto de Salud, Carrera 8, 684017 Jordán, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Jordan, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Jordán",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84889,
+          5.79083
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. Cooperativa A La Belleza, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "La Belleza",
+        "direccion": "La Belleza, EF, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9653389913472,
+          5.858876049999999
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De La Belleza, Santander",
+        "sector": "Planeación",
+        "municipio": "La Belleza",
+        "direccion": "Alcaldía La Belleza, Carrera 3 6-10, 685061 La Belleza, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9658291,
+          5.8588396
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De La Belleza, Santander",
+        "sector": "Planeación",
+        "municipio": "La Belleza",
+        "direccion": "La Belleza, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9658291,
+          5.8588396
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Martín De La Belleza, Santander",
+        "sector": "Salud",
+        "municipio": "La Belleza",
+        "direccion": "La Belleza, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.967653,
+          5.856117
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Belleza, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "La Belleza",
+        "direccion": "Cementerio de La Belleza, 685061 La Belleza, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5895841,
+          6.1785935
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De La Paz, Santander",
+        "sector": "Planeación",
+        "municipio": "La Paz - Santander",
+        "direccion": "La Paz, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5895841,
+          6.1785935
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De La Paz, Santander",
+        "sector": "Planeación",
+        "municipio": "La Paz - Santander",
+        "direccion": "La Paz, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5895841,
+          6.1785935
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Nuestra Señora De La Paz, Santander",
+        "sector": "Salud",
+        "municipio": "La Paz - Santander",
+        "direccion": "La Paz, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8113754,
+          6.2205334
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Landázuri, Santander",
+        "sector": "Planeación",
+        "municipio": "Landázuri",
+        "direccion": "Landázuri, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.80884444485169,
+          6.22160285
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Landázuri, Santander",
+        "sector": "Planeación",
+        "municipio": "Landázuri",
+        "direccion": "E.S.E. Hospital Integrado de Landázuri, Carrera 2B, 686027 Landázuri, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.80884444485169,
+          6.22160285
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Integrado De Landázuri, Santander",
+        "sector": "Salud",
+        "municipio": "Landázuri",
+        "direccion": "E.S.E. Hospital Integrado de Landázuri, Carrera 2B, 686027 Landázuri, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8121319069067,
+          6.2186945
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Landázuri, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Landázuri",
+        "direccion": "Casa de la cultura, Carrera 6, 686027 Landázuri, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.217665,
+          7.113377
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Lebrija, Santander",
+        "sector": "Planeación",
+        "municipio": "Lebrija",
+        "direccion": "Alcaldia de lebrija, 687571 Cabecera Municipal Lebrija, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21765340569183,
+          7.11332665
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Lebrija, Santander",
+        "sector": "Planeación",
+        "municipio": "Lebrija",
+        "direccion": "Alcaldia de lebrija, Calle 11, 687571 Cabecera Municipal Lebrija, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2178,
+          7.11317
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Lebrija, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Lebrija",
+        "direccion": "Lebrija, LE, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2174056,
+          7.1138415
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Juan De Dios De Lebrija, Santander",
+        "sector": "Salud",
+        "municipio": "Lebrija",
+        "direccion": "Lebrija, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2174056,
+          7.1138415
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Lebrija, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Lebrija",
+        "direccion": "Lebrija, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.09746055302995,
+          6.76068755
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Los Santos, Santander",
+        "sector": "Planeación",
+        "municipio": "Los Santos",
+        "direccion": "Piscina de Los Santos, Vía los Santos, 684009 Los Santos, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.09746055302995,
+          6.76068755
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Los Santos, Santander",
+        "sector": "Planeación",
+        "municipio": "Los Santos",
+        "direccion": "Piscina de Los Santos, Vía los Santos, 684009 Los Santos, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1018206,
+          6.7559026
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Nuestra Señora De Las Nieves De Los Santos, Santander",
+        "sector": "Salud",
+        "municipio": "Los Santos",
+        "direccion": "Los Santos, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.09746055302995,
+          6.76068755
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Los Santos, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Los Santos",
+        "direccion": "Piscina de Los Santos, Vía los Santos, 684009 Los Santos, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.59250627920017,
+          6.5059829
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Macaravita, Santander",
+        "sector": "Planeación",
+        "municipio": "Macaravita",
+        "direccion": "alcaldia municipal, Carrera 3, 681531 Macaravita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.59286827041866,
+          6.50755495
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Macaravita, Santander",
+        "sector": "Planeación",
+        "municipio": "Macaravita",
+        "direccion": "salida al municipio de chiscas boyaca, 681531 Macaravita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5925353,
+          6.5060841
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud De Macaravita, Santander",
+        "sector": "Salud",
+        "municipio": "Macaravita",
+        "direccion": "Macaravita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.59269777600352,
+          6.50550355
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Macaravita, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Macaravita",
+        "direccion": "estacion de policia, Calle 3, 681531 Macaravita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73314409878336,
+          6.699315800000001
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Málaga, Santander",
+        "sector": "Planeación",
+        "municipio": "Málaga",
+        "direccion": "Alcaldía de Málaga, Calle 12, 682027 Málaga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.725461,
+          6.717972
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Málaga, Santander",
+        "sector": "Planeación",
+        "municipio": "Málaga",
+        "direccion": "Monasterio de Málaga, 682011 Málaga, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7324563,
+          6.699661
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Regional De García Rovira De Málaga, Santander",
+        "sector": "Salud",
+        "municipio": "Málaga",
+        "direccion": "Málaga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73233,
+          6.69903
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Málaga, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Málaga",
+        "direccion": "Málaga, CC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7324563,
+          6.699661
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 1 De Málaga, Santander",
+        "sector": "Función Pública",
+        "municipio": "Málaga",
+        "direccion": "Málaga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7324563,
+          6.699661
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 2 De Málaga, Santander",
+        "sector": "Función Pública",
+        "municipio": "Málaga",
+        "direccion": "Málaga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.725461,
+          6.717972
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Málaga, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Málaga",
+        "direccion": "Monasterio de Málaga, 682011 Málaga, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.015531,
+          7.32259
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Matanza, Santander",
+        "sector": "Planeación",
+        "municipio": "Matanza",
+        "direccion": "Alcaldía Municipal de Matanza, 680567 Matanza, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.01543177966377,
+          7.32269365
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Matanza, Santander",
+        "sector": "Planeación",
+        "municipio": "Matanza",
+        "direccion": "Concejo Municipal, Carrera 5, 680567 Matanza, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0155679,
+          7.3230808
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Rafael De Matanza, Santander",
+        "sector": "Salud",
+        "municipio": "Matanza",
+        "direccion": "Matanza, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0155679,
+          7.3230808
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Matanza, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Matanza",
+        "direccion": "Matanza, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Mogotes, Santander",
+        "sector": "Planeación",
+        "municipio": "Mogotes",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.039173,
+          6.488683
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Mogotes, Santander",
+        "sector": "Planeación",
+        "municipio": "Mogotes",
+        "direccion": "Hoyo de Los Pájaros, Mogotes, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Mogotes, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Mogotes",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.227808,
+          3.99383
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. San Pedro Claver De Mogotes, Santander",
+        "sector": "Salud",
+        "municipio": "Mogotes",
+        "direccion": "ESE Hospital Ulpiano Tascón Quintero, 763038 San Pedro, VC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.80862875628651,
+          6.6736308
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Molagavita, Santander",
+        "sector": "Planeación",
+        "municipio": "Molagavita",
+        "direccion": "Cancha micro futbol Alcaldia, Calle 3, 682037 Molagavita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8091136,
+          6.6737293
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud Nuestra Señora De La Esperanza De Molagavita, Santander",
+        "sector": "Salud",
+        "municipio": "Molagavita",
+        "direccion": "Molagavita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8091136,
+          6.6737293
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Molagavita, Santander",
+        "sector": "Planeación",
+        "municipio": "Molagavita",
+        "direccion": "Molagavita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.80875,
+          6.67315
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Molagavita, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Molagavita",
+        "direccion": "Molagavita, MO, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8091136,
+          6.6737293
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Molagavita, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Molagavita",
+        "direccion": "Molagavita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1220259,
+          6.3407198
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Ocamonte, Santander",
+        "sector": "Planeación",
+        "municipio": "Ocamonte",
+        "direccion": "Ocamonte, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1220259,
+          6.3407198
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Ocamonte, Santander",
+        "sector": "Planeación",
+        "municipio": "Ocamonte",
+        "direccion": "Ocamonte, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12205,
+          6.34001
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Ocamonte, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Ocamonte",
+        "direccion": "Ocamonte, OC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1220259,
+          6.3407198
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. De Ocamonte, Santander",
+        "sector": "Salud",
+        "municipio": "Ocamonte",
+        "direccion": "Ocamonte, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1220259,
+          6.3407198
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Ocamonte, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Ocamonte",
+        "direccion": "Ocamonte, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2987804,
+          6.2641995
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Oiba, Santander",
+        "sector": "Planeación",
+        "municipio": "Oiba",
+        "direccion": "Oiba, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.300892,
+          6.261078
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Oiba, Santander",
+        "sector": "Planeación",
+        "municipio": "Oiba",
+        "direccion": "Terminal de Transporte Ivan Quiroga Camacho, 683019 Oiba, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.29876,
+          6.26388
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Oiba, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Oiba",
+        "direccion": "Oiba, OI, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2987804,
+          6.2641995
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Rafael De Oiba, Santander",
+        "sector": "Salud",
+        "municipio": "Oiba",
+        "direccion": "Oiba, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2987804,
+          6.2641995
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Oiba, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Oiba",
+        "direccion": "Oiba, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.81726,
+          6.34434
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. Cooperativa De Onzaga, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Onzaga",
+        "direccion": "Onzaga, ON, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Onzaga, Santander",
+        "sector": "Planeación",
+        "municipio": "Onzaga",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.81673772485786,
+          6.344686749999999
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Onzaga, Santander",
+        "sector": "Planeación",
+        "municipio": "Onzaga",
+        "direccion": "Departamento de Policía de Onzaga, Carrera 2, 682519 Onzaga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983437,
+          2.114077
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Vicente De Paul De Onzaga, Santander",
+        "sector": "Salud",
+        "municipio": "Onzaga",
+        "direccion": "ESE Hospital, El Bordo, CA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4960213,
+          3.5848883
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Onzaga, Santander",
+        "sector": "Función Pública",
+        "municipio": "Onzaga",
+        "direccion": "Notaria Primera del Circulo de Yumbo, Carrera 3, Nuevo horizonte, 760501 Yumbo, VAC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Onzaga, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Onzaga",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.64055872466984,
+          4.529991799999999
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Palmar, Santander",
+        "sector": "Planeación",
+        "municipio": "Palmar",
+        "direccion": "Alcaldía de Calarcá, Carrera 24, 632001 Calarcá, QUI, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08064,
+          4.62653
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Palmar, Santander",
+        "sector": "Planeación",
+        "municipio": "Palmar",
+        "direccion": "Concejo de Bogotá, Avenida Eldorado, 111311 Bogotá, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.50956349736816,
+          6.70175585
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Andrés Cala Pimentel De Palmar, Santander",
+        "sector": "Salud",
+        "municipio": "Palmar",
+        "direccion": "ESE HOSPITAL DEL CARMEN, Carrera 3, El Carmen de Chucurí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Palmar, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Palmar",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2881021,
+          6.4063494
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Palmas Del Socorro, Santander",
+        "sector": "Planeación",
+        "municipio": "Palmas Del Socorro",
+        "direccion": "Alcaldia municipal de Palmas del Socorro, Calle 7, 683541 Palmas del Socorro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.287918,
+          6.4066247
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Palmas Del Socorro, Santander",
+        "sector": "Planeación",
+        "municipio": "Palmas Del Socorro",
+        "direccion": "Palmas del Socorro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.28824,
+          6.40756
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Palmas De Socorro, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Palmas Del Socorro",
+        "direccion": "Palmas Socorro, PS, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.287918,
+          6.4066247
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Palmas Del Socorro, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Palmas Del Socorro",
+        "direccion": "Palmas del Socorro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1689695243142,
+          6.41638435
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Páramo, Santander",
+        "sector": "Planeación",
+        "municipio": "Páramo",
+        "direccion": "Alcaldía de Páramo, Carrera 3 3-40, 683527 Páramo, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16892,
+          6.416582
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud De Páramo, Santander",
+        "sector": "Salud",
+        "municipio": "Páramo",
+        "direccion": "E.S.E. Centro de Salud Paramo, 683527 Páramo, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.165865,
+          6.371674
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Páramo, Santander",
+        "sector": "Planeación",
+        "municipio": "Páramo",
+        "direccion": "Parque Ecológico y de Aventuras Cascadas de Juan Curí, 682561 Páramo, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1693988,
+          6.416541
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Páramo, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Páramo",
+        "direccion": "Páramo, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Piedecuesta, Santander",
+        "sector": "Planeación",
+        "municipio": "Piedecuesta",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08064,
+          4.62653
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Piedecuesta, Santander",
+        "sector": "Planeación",
+        "municipio": "Piedecuesta",
+        "direccion": "Concejo de Bogotá, Avenida Eldorado, 111311 Bogotá, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.04953,
+          6.98789
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Piedecuesta, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Piedecuesta",
+        "direccion": "Piedecuesta, PD, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.83533905745341,
+          10.25837
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Local De Piedecuesta, Santander",
+        "sector": "Salud",
+        "municipio": "Piedecuesta",
+        "direccion": "ESE hospital local de Concordia, Carrera 6, 476030 Concordia, MAG, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.051317,
+          6.985032
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Piedecuesta, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Piedecuesta",
+        "direccion": "Personería Municipal de Piedecuesta, 681011 Piedecuesta, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17347235908869,
+          6.5325325
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Pinchote, Santander",
+        "sector": "Planeación",
+        "municipio": "Pinchote",
+        "direccion": "Alcaldia Pinchote, Carrera 5 No. 4-13, 684039 Pinchote, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1724289432317,
+          6.53325275
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Pinchote, Santander",
+        "sector": "Planeación",
+        "municipio": "Pinchote",
+        "direccion": "San Antonio de Padua, Calle 4, 684039 Pinchote, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1732298,
+          6.5322505
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. San Antonio De Padua De Pinchote, Santander",
+        "sector": "Salud",
+        "municipio": "Pinchote",
+        "direccion": "Pinchote, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14890966884798,
+          6.5544346
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Pinchote, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Pinchote",
+        "direccion": "Terminal de Transportes de San Gi, Carrera 17, 684039 San Gil, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6791063,
+          5.8770962
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Puente Nacional, Santander",
+        "sector": "Planeación",
+        "municipio": "Puente Nacional",
+        "direccion": "Puente Nacional, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6791063,
+          5.8770962
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Puente Nacional, Santander",
+        "sector": "Planeación",
+        "municipio": "Puente Nacional",
+        "direccion": "Puente Nacional, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6791063,
+          5.8770962
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. Acuapuente De Puente Nacional, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Puente Nacional",
+        "direccion": "Puente Nacional, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6791063,
+          5.8770962
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Integrado San Antonio De Puente Nacional, Santander",
+        "sector": "Salud",
+        "municipio": "Puente Nacional",
+        "direccion": "Puente Nacional, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6791063,
+          5.8770962
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Puente Nacional, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Puente Nacional",
+        "direccion": "Puente Nacional, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0564489,
+          6.651506
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Puerto Parra, Santander",
+        "sector": "Planeación",
+        "municipio": "Puerto Parra",
+        "direccion": "Puerto Parra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0564489,
+          6.651506
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Puerto Parra, Santander",
+        "sector": "Planeación",
+        "municipio": "Puerto Parra",
+        "direccion": "Puerto Parra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0564489,
+          6.651506
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E.  Centro De Salud Puerto Parra, Santander",
+        "sector": "Salud",
+        "municipio": "Puerto Parra",
+        "direccion": "Puerto Parra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0564489,
+          6.651506
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Puerto Parra, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Puerto Parra",
+        "direccion": "Puerto Parra, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05734,
+          6.65149
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Puerto Parra, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Puerto Parra",
+        "direccion": "Puerto Parra, PP, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8979783,
+          7.3480175
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Puerto Wilches, Santander",
+        "sector": "Planeación",
+        "municipio": "Puerto Wilches",
+        "direccion": "Puerto Wilches, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8979783,
+          7.3480175
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Puerto Wilches, Santander",
+        "sector": "Planeación",
+        "municipio": "Puerto Wilches",
+        "direccion": "Puerto Wilches, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8979783,
+          7.3480175
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Edmundo Germán Arias Duarte De Puerto Wilches, Santander",
+        "sector": "Salud",
+        "municipio": "Puerto Wilches",
+        "direccion": "Puerto Wilches, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89601,
+          7.34828
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Puerto Wilches, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Puerto Wilches",
+        "direccion": "Puerto Wilches, PW, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8979783,
+          7.3480175
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Puerto Wilches, Santander",
+        "sector": "Función Pública",
+        "municipio": "Puerto Wilches",
+        "direccion": "Puerto Wilches, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8979783,
+          7.3480175
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Puerto Wilches, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Puerto Wilches",
+        "direccion": "Puerto Wilches, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1502802,
+          7.2646312
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Rionegro, Santander",
+        "sector": "Planeación",
+        "municipio": "Rionegro - Santander",
+        "direccion": "Rionegro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1502802,
+          7.2646312
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Rionegro, Santander",
+        "sector": "Planeación",
+        "municipio": "Rionegro - Santander",
+        "direccion": "Rionegro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1502802,
+          7.2646312
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Rionegro, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Rionegro - Santander",
+        "direccion": "Rionegro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1502802,
+          7.2646312
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Antonio De Rionegro, Santander",
+        "sector": "Salud",
+        "municipio": "Rionegro - Santander",
+        "direccion": "Rionegro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1502802,
+          7.2646312
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Rionegro, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Rionegro - Santander",
+        "direccion": "Rionegro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4998859,
+          7.3939416
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Sabana De Torres, Santander",
+        "sector": "Planeación",
+        "municipio": "Sabana De Torres",
+        "direccion": "Sabana de Torres, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4998859,
+          7.3939416
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Sabana De Torres, Santander",
+        "sector": "Planeación",
+        "municipio": "Sabana De Torres",
+        "direccion": "Sabana de Torres, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.49574,
+          7.3915
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Sabana De Torres, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Sabana De Torres",
+        "direccion": "Sabana de Torres, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4912811,
+          7.3955307
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Integrado De Sabana De Torres, Santander",
+        "sector": "Salud",
+        "municipio": "Sabana De Torres",
+        "direccion": "HOSPITAL INTEGRADO SABANA DE TORRES, Calle 14, 687007 Sabana de Torres, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4998859,
+          7.3939416
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Municipal De Deportes, Recreación, Cultura Y Turismo De Sabana De Torres, Santander",
+        "sector": "Deporte",
+        "municipio": "Sabana De Torres",
+        "direccion": "Sabana de Torres, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4998859,
+          7.3939416
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Sabana De Torres, Santander",
+        "sector": "Función Pública",
+        "municipio": "Sabana De Torres",
+        "direccion": "Sabana de Torres, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4998859,
+          7.3939416
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Sabana De Torres, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Sabana De Torres",
+        "direccion": "Sabana de Torres, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5346615429707,
+          7.7885909
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De San Andrés, Santander",
+        "sector": "Planeación",
+        "municipio": "San Andrés",
+        "direccion": "Alcaldía de San José de Uré, Calle 8 1A-95, 234010 San José de Uré, COR, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71983,
+          12.52449
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De San Andrés, Santander",
+        "sector": "Planeación",
+        "municipio": "San Andrés",
+        "direccion": "San Andrés y Providencia, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983437,
+          2.114077
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San José De San Andrés, Santander",
+        "sector": "Salud",
+        "municipio": "San Andrés",
+        "direccion": "ESE Hospital, El Bordo, CA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71983,
+          12.52449
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De San Andrés, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "San Andrés",
+        "direccion": "San Andrés y Providencia, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.50997827360354,
+          6.12520335
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De San Benito, Santander",
+        "sector": "Planeación",
+        "municipio": "San Benito",
+        "direccion": "Alcaldía de San Benito, Calle 4, 685537 San Benito, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.509161,
+          6.125746
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De San Benito, Santander",
+        "sector": "Planeación",
+        "municipio": "San Benito",
+        "direccion": "Parque Acuático de San Benito, 685537 San Benito, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72218621449628,
+          5.517461150000001
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. De San Benito, Santander",
+        "sector": "Salud",
+        "municipio": "San Benito",
+        "direccion": "E.S.E CENTRO DE SALUD SAN MIGUEL, Carrera 6, 153820 San Miguel de Sema, BOY, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.50952213444424,
+          6.1255766
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De San Benito, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "San Benito",
+        "direccion": "Estación de Policía San Benito, Calle 5, 685537 San Benito, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1312353,
+          6.5552856
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. Acuasan De San Gil, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "San Gil",
+        "direccion": "San Gil, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.132319,
+          6.551137
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De San Gil, Santander",
+        "sector": "Planeación",
+        "municipio": "San Gil",
+        "direccion": "Estación de Policía San Gil, 684037 San Gil, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.132319,
+          6.551137
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De San Gil, Santander",
+        "sector": "Planeación",
+        "municipio": "San Gil",
+        "direccion": "Estación de Policía San Gil, 684037 San Gil, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1312353,
+          6.5552856
+        ]
+      },
+      "properties": {
+        "nombre": "Corporación Autónoma Regional De Santander, Santander",
+        "sector": "Ambiente y Desarrollo Sostenible",
+        "municipio": "San Gil",
+        "direccion": "San Gil, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.132319,
+          6.551137
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Regional De San Gil, Santander",
+        "sector": "Salud",
+        "municipio": "San Gil",
+        "direccion": "Estación de Policía San Gil, 684037 San Gil, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1312353,
+          6.5552856
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto De Cultura Y Turismo De San Gil, Santander",
+        "sector": "Cultura",
+        "municipio": "San Gil",
+        "direccion": "San Gil, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1312353,
+          6.5552856
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto De Deportes Y Recreación De San Gil, Santander",
+        "sector": "Deporte",
+        "municipio": "San Gil",
+        "direccion": "San Gil, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.132319,
+          6.551137
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 1 De San Gil, Santander",
+        "sector": "Función Pública",
+        "municipio": "San Gil",
+        "direccion": "Estación de Policía San Gil, 684037 San Gil, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.132319,
+          6.551137
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 2 De San Gil, Santander",
+        "sector": "Función Pública",
+        "municipio": "San Gil",
+        "direccion": "Estación de Policía San Gil, 684037 San Gil, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.132319,
+          6.551137
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De San Gil, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "San Gil",
+        "direccion": "Estación de Policía San Gil, 684037 San Gil, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1312353,
+          6.5552856
+        ]
+      },
+      "properties": {
+        "nombre": "Terminal De Transportes De San Gil, Santander",
+        "sector": "Transporte",
+        "municipio": "San Gil",
+        "direccion": "San Gil, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.64055872466984,
+          4.529991799999999
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De San Joaquín, Santander",
+        "sector": "Planeación",
+        "municipio": "San Joaquín",
+        "direccion": "Alcaldía de Calarcá, Carrera 24, 632001 Calarcá, QUI, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.86722743189236,
+          6.42770065
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De San Joaquín, Santander",
+        "sector": "Planeación",
+        "municipio": "San Joaquín",
+        "direccion": "Estación de Policía San Joaquín, Carrera 4, 682511 San Joaquín, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20167,
+          7.30583
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De San Joaquín, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "San Joaquín",
+        "direccion": "San Joaquin, RI, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.80884444485169,
+          6.22160285
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Integrado San Joaquín, Santander",
+        "sector": "Salud",
+        "municipio": "San Joaquín",
+        "direccion": "E.S.E. Hospital Integrado de Landázuri, Carrera 2B, 686027 Landázuri, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.86722743189236,
+          6.42770065
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De San Joaquín, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "San Joaquín",
+        "direccion": "Estación de Policía San Joaquín, Carrera 4, 682511 San Joaquín, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7334887,
+          6.6583869
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De San José De Miranda, Santander",
+        "sector": "Planeación",
+        "municipio": "San José De Miranda",
+        "direccion": "San José de Miranda, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.73421774765305,
+          6.659883349999999
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De San José De Miranda, Santander",
+        "sector": "Planeación",
+        "municipio": "San José De Miranda",
+        "direccion": "Estación de Policía San José De Miranda, Carrera 4, 682027 San José de Miranda, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7349000632469,
+          6.65953145
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Nuestra Señora De Los Remedios De San José De Miranda, Santander",
+        "sector": "Salud",
+        "municipio": "San José De Miranda",
+        "direccion": "HOSPITAL NUESTRA SEÑORA DE LOS REMEDIOS, Calle 5 Carrera 5, 682027 San José de Miranda, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7334887,
+          6.6583869
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De San José De Miranda, Santander",
+        "sector": "Función Pública",
+        "municipio": "San José De Miranda",
+        "direccion": "San José de Miranda, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.733204,
+          6.658878
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De San José De Miranda, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "San José De Miranda",
+        "direccion": "San José de Miranda, 682027 San José Miranda, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9103058,
+          0.3451987
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De San Miguel, Santander",
+        "sector": "Planeación",
+        "municipio": "San Miguel",
+        "direccion": "Alcaldía de San Miguel, Carrera 4, 862047 La Dorada, PUT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.64407183323317,
+          6.5755195
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud San Miguel, Santander",
+        "sector": "Salud",
+        "municipio": "San Miguel",
+        "direccion": "E.S.E CENTRO DE SALUD SAN MIGUEL, Carrera 2 2, 681557 San Miguel, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72238,
+          5.51847
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De San Miguel, Santander",
+        "sector": "Planeación",
+        "municipio": "San Miguel",
+        "direccion": "San Miguel de Sema, BY, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72238,
+          5.51847
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De San Miguel, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "San Miguel",
+        "direccion": "San Miguel de Sema, BY, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.410626,
+          6.8811388
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De San Vicente De Chucurí, Santander",
+        "sector": "Planeación",
+        "municipio": "San Vicente De Chucurí",
+        "direccion": "San Vicente de Chucurí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.40977,
+          6.881
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De San Vicente De Chucurí, Santander",
+        "sector": "Planeación",
+        "municipio": "San Vicente De Chucurí",
+        "direccion": "San Vicente de Chucurí, SV, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.410626,
+          6.8811388
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Municipal Para La Educación Física, La Recreación Y El Deporte De San Vicente De Chucurí, Santander",
+        "sector": "Deporte",
+        "municipio": "San Vicente De Chucurí",
+        "direccion": "San Vicente de Chucurí, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.417991,
+          6.881158
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De San Vicente De Chucurí, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "San Vicente De Chucurí",
+        "direccion": "Cárcel San Vicente de Chucurí, Calle 16A Carrera 17B, 686531 San Vicente de Chucurí, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90701277782534,
+          6.99019565
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Santa Bárbara, Santander",
+        "sector": "Planeación",
+        "municipio": "Santa Bárbara - Santander",
+        "direccion": "Alcaldía Santa Bárbara, Calle 5, 681037 Santa Bárbara, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9067349,
+          6.9905471
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud Santa Bárbara, Santander",
+        "sector": "Salud",
+        "municipio": "Santa Bárbara - Santander",
+        "direccion": "E.S.E. Centro de Salud Santa Bárbara, Carrera 3 carrera 3, 681037 Santa Bárbara, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90712649143059,
+          6.98961955
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Santa Bárbara, Santander",
+        "sector": "Planeación",
+        "municipio": "Santa Bárbara - Santander",
+        "direccion": "estacion de policia santa bárbara, Calle 4, 681037 Santa Bárbara, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9075119,
+          6.9897665
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Santa Bárbara, Santander",
+        "sector": "Función Pública",
+        "municipio": "Santa Bárbara - Santander",
+        "direccion": "Santa Bárbara, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90712649143059,
+          6.98961955
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Santa Bárbara, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Santa Bárbara - Santander",
+        "direccion": "estacion de policia santa bárbara, Calle 4, 681037 Santa Bárbara, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.616366,
+          6.3387975
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Santa Helena Del Opón, Santander",
+        "sector": "Planeación",
+        "municipio": "Santa Helena Del Opón",
+        "direccion": "Santa Helena del Opón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.616366,
+          6.3387975
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Santa Helena Del Opón, Santander",
+        "sector": "Planeación",
+        "municipio": "Santa Helena Del Opón",
+        "direccion": "Santa Helena del Opón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.616366,
+          6.3387975
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud Jaime Michel De Santa Helena Del Opón, Santander",
+        "sector": "Salud",
+        "municipio": "Santa Helena Del Opón",
+        "direccion": "Santa Helena del Opón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.35904,
+          7.40309
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Santa Helena Del Opón, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Santa Helena Del Opón",
+        "direccion": "Loma de Santa Helena, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.616366,
+          6.3387975
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Santa Helena Del Opón, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Santa Helena Del Opón",
+        "direccion": "Santa Helena del Opón, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3374205,
+          6.4435088
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Simacota, Santander",
+        "sector": "Planeación",
+        "municipio": "Simacota",
+        "direccion": "Simacota, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3374205,
+          6.4435088
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Simacota, Santander",
+        "sector": "Planeación",
+        "municipio": "Simacota",
+        "direccion": "Simacota, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3374205,
+          6.4435088
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Roque De Simacota, Santander",
+        "sector": "Salud",
+        "municipio": "Simacota",
+        "direccion": "Simacota, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3374205,
+          6.4435088
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Simacota, Santander",
+        "sector": "Función Pública",
+        "municipio": "Simacota",
+        "direccion": "Simacota, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3374205,
+          6.4435088
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Simacota, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Simacota",
+        "direccion": "Simacota, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.261501,
+          6.470706
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Socorro, Santander",
+        "sector": "Planeación",
+        "municipio": "Socorro",
+        "direccion": "Alcaldía Municipal de El Socorro, 683551 El Socorro, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08064,
+          4.62653
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Socorro, Santander",
+        "sector": "Planeación",
+        "municipio": "Socorro",
+        "direccion": "Concejo de Bogotá, Avenida Eldorado, 111311 Bogotá, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.26022,
+          6.46838
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Socorro, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Socorro",
+        "direccion": "Socorro, SO, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.26411335188449,
+          6.46685265
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Regional Manuela Beltrán De Socorro, Santander",
+        "sector": "Salud",
+        "municipio": "Socorro",
+        "direccion": "Hospital Regional Manuela Beltrán, Carrera 16, 683551 El Socorro, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983437,
+          2.114077
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Juan De Dios De Socorro, Santander",
+        "sector": "Salud",
+        "municipio": "Socorro",
+        "direccion": "ESE Hospital, El Bordo, CA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0770173,
+          4.5977866
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto De Cultura, Turismo Y Recreación De Socorro, Santander",
+        "sector": "Cultura",
+        "municipio": "Socorro",
+        "direccion": "Instituto Distrital de Cultura y Turismo, Carrera 8, UPZs La Candelaria, 111711 Bogota, Capital District, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08504,
+          4.657416
+        ]
+      },
+      "properties": {
+        "nombre": "Instituto Municipal De Deporte Y Recreación De Socorro, Santander",
+        "sector": "Deporte",
+        "municipio": "Socorro",
+        "direccion": "I.D.R.D Instituto Distrital de Recreación y Deporte, Avenida José Celestino Mutis;Calle 63 59A - 06, 111221 Bogotá, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22029616856784,
+          4.582600149999999
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 1 De Socorro, Santander",
+        "sector": "Función Pública",
+        "municipio": "Socorro",
+        "direccion": "Notaría 1 de Soacha, Carrera 8, Soacha Central, 250051 Soacha ciudad, CUN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Socorro, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Socorro",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.262567,
+          6.472078
+        ]
+      },
+      "properties": {
+        "nombre": "Terminal De Transportes Del Socorro, Santander",
+        "sector": "Transporte",
+        "municipio": "Socorro",
+        "direccion": "Terminal de Transportes, 683551 El Socorro, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4401725,
+          6.1032652
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Suaita, Santander",
+        "sector": "Planeación",
+        "municipio": "Suaita",
+        "direccion": "Suaita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.44903751430564,
+          6.160444099999999
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Suaita, Santander",
+        "sector": "Planeación",
+        "municipio": "Suaita",
+        "direccion": "Puesto de Salud de, Carrera 4A, 683048 San José de Suaita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.44041,
+          6.1014
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Suaita, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Suaita",
+        "direccion": "Suaita, SU, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4401725,
+          6.1032652
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Caicedo Flórez De Suaita, Santander",
+        "sector": "Salud",
+        "municipio": "Suaita",
+        "direccion": "Suaita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4401725,
+          6.1032652
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Suaita, Santander",
+        "sector": "Función Pública",
+        "municipio": "Suaita",
+        "direccion": "Suaita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.44903751430564,
+          6.160444099999999
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Suaita, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Suaita",
+        "direccion": "Puesto de Salud de, Carrera 4A, 683048 San José de Suaita, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7912556,
+          5.9188103
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Sucre, Santander",
+        "sector": "Planeación",
+        "municipio": "Sucre - Santander",
+        "direccion": "Sucre, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.79126832344983,
+          5.9179894
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Sucre, Santander",
+        "sector": "Planeación",
+        "municipio": "Sucre - Santander",
+        "direccion": "Cancha Principal Municipio de Sucre, Carrera 4, 685047 Sucre, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7912556,
+          5.9188103
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud De Sucre, Santander",
+        "sector": "Salud",
+        "municipio": "Sucre - Santander",
+        "direccion": "Sucre, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78703229470005,
+          5.919783150000001
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Sucre, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Sucre - Santander",
+        "direccion": "Piscina Pública de Sucre, Sucre - Guavatá, 685047 Sucre, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.983442,
+          7.36732
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Suratá, Santander",
+        "sector": "Planeación",
+        "municipio": "Suratá",
+        "direccion": "ALCALDIA MUNICIPAL DE SURATA, 680507 Suratá, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.990271,
+          7.468954
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Suratá, Santander",
+        "sector": "Planeación",
+        "municipio": "Suratá",
+        "direccion": "Instituto Cristiano de Promoción Campesina, Suratá, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9847362,
+          7.3664929
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Sebastián De Suratá, Santander",
+        "sector": "Salud",
+        "municipio": "Suratá",
+        "direccion": "Suratá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.990271,
+          7.468954
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Suratá, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Suratá",
+        "direccion": "Instituto Cristiano de Promoción Campesina, Suratá, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9663733,
+          7.2020629
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Tona, Santander",
+        "sector": "Planeación",
+        "municipio": "Tona",
+        "direccion": "Tona, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9663733,
+          7.2020629
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Tona, Santander",
+        "sector": "Planeación",
+        "municipio": "Tona",
+        "direccion": "Tona, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9663733,
+          7.2020629
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Tona, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Tona",
+        "direccion": "Tona, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9663733,
+          7.2020629
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. San Isidro De Tona, Santander",
+        "sector": "Salud",
+        "municipio": "Tona",
+        "direccion": "Tona, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1443007,
+          6.4480153
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Valle De San José, Santander",
+        "sector": "Planeación",
+        "municipio": "Valle De San José",
+        "direccion": "Valle de San José, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14361,
+          6.4475
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Valle San José, Santander",
+        "sector": "Planeación",
+        "municipio": "Valle De San José",
+        "direccion": "Valle de San José, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14361,
+          6.4475
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.P. De Valle De San José, Santander",
+        "sector": "Vivienda, Ciudad y Territorio",
+        "municipio": "Valle De San José",
+        "direccion": "Valle de San José, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98319465973478,
+          2.11423525
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Valle De San José, Santander",
+        "sector": "Salud",
+        "municipio": "Valle De San José",
+        "direccion": "ESE Hospital, Carrera 4, El Bordo, CAU, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14361,
+          6.4475
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Valle San José, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Valle De San José",
+        "direccion": "Valle de San José, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Vélez, Santander",
+        "sector": "Planeación",
+        "municipio": "Vélez",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08064,
+          4.62653
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Vélez, Santander",
+        "sector": "Planeación",
+        "municipio": "Vélez",
+        "direccion": "Concejo de Bogotá, Avenida Eldorado, 111311 Bogotá, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07146393748297,
+          4.59990005
+        ]
+      },
+      "properties": {
+        "nombre": "Corporación Agencia De Desarrollo Económico Local De La Provincia De Vélez, Santander",
+        "sector": "Comercio, Industria y Turismo",
+        "municipio": "Vélez",
+        "direccion": "Alcaldía Local de La Candelaria, Calle 12C, UPZs La Candelaria, 111711 Bogota, Capital District, DC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.673957,
+          6.01534
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Regional De Vélez, Santander",
+        "sector": "Salud",
+        "municipio": "Vélez",
+        "direccion": "Hospital Regional de Vélez, Calle 11, 685567 Vélez, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22029616856784,
+          4.582600149999999
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 1 De Vélez, Santander",
+        "sector": "Función Pública",
+        "municipio": "Vélez",
+        "direccion": "Notaría 1 de Soacha, Carrera 8, Soacha Central, 250051 Soacha ciudad, CUN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6803987,
+          5.8761389
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Vélez, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Vélez",
+        "direccion": "Personeria municipal, Carrera 7 6-21, 684521 Puente Nacional, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63782648151971,
+          6.06230475
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Vetas, Santander",
+        "sector": "Planeación",
+        "municipio": "Vetas",
+        "direccion": "Alcaldía de Chipatá, Carrera 6 3-17, 685557 Chipatá, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.87141155,
+          7.3115849
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Vetas, Santander",
+        "sector": "Planeación",
+        "municipio": "Vetas",
+        "direccion": "Estación de PolicÍa, Transversal 5, 680531 Vetas, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.87229908120635,
+          7.3103412
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud Nuestra Señora Del Carmen De Vetas, Santander",
+        "sector": "Salud",
+        "municipio": "Vetas",
+        "direccion": "Centro de Salud Nuestra Señora del Carmen, Calle 7, 680531 Vetas, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.87141155,
+          7.3115849
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Vetas, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Vetas",
+        "direccion": "Estación de PolicÍa, Transversal 5, 680531 Vetas, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1753984,
+          6.6712394
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Villanueva, Santander",
+        "sector": "Planeación",
+        "municipio": "Villanueva - Santander",
+        "direccion": "Villanueva, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1753984,
+          6.6712394
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Centro De Salud Camilo Rueda De Villanueva, Santander",
+        "sector": "Salud",
+        "municipio": "Villanueva - Santander",
+        "direccion": "Villanueva, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1753984,
+          6.6712394
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Villanueva, Santander",
+        "sector": "Planeación",
+        "municipio": "Villanueva - Santander",
+        "direccion": "Villanueva, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1753984,
+          6.6712394
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Villanueva, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Villanueva - Santander",
+        "direccion": "Villanueva, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.26816096454402,
+          6.81645995
+        ]
+      },
+      "properties": {
+        "nombre": "Alcaldía De Zapatoca, Santander",
+        "sector": "Planeación",
+        "municipio": "Zapatoca",
+        "direccion": "Alcaldía de Zapatoca, Carrera 9 20-36, 604069 Zapatoca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.26623467445201,
+          6.81345805
+        ]
+      },
+      "properties": {
+        "nombre": "Concejo De Zapatoca, Santander",
+        "sector": "Planeación",
+        "municipio": "Zapatoca",
+        "direccion": "Plaza de Toros de Zapatoca, Carrera 5, 604069 Zapatoca, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4960213,
+          3.5848883
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Zapatoca, Santander",
+        "sector": "Función Pública",
+        "municipio": "Zapatoca",
+        "direccion": "Notaria Primera del Circulo de Yumbo, Carrera 3, Nuevo horizonte, 760501 Yumbo, VAC, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7867407,
+          8.4231551
+        ]
+      },
+      "properties": {
+        "nombre": "Personería De Zapatoca, Santander",
+        "sector": "Organismos De Control",
+        "municipio": "Zapatoca",
+        "direccion": "Personería Municipal de Necoclí, Carrera 50 49-13, 057870 Necoclí, ANT, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.142967,
+          6.290343
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Integrado San Roque De Charalá, Santander",
+        "sector": "Salud",
+        "municipio": "Charalá",
+        "direccion": "E.S.E. Hospital Luis Carlos Galan Sarmiento, 682559 Charalá, ST, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1312353,
+          6.5552856
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Juan De Dios De San Gil, Santander",
+        "sector": "Salud",
+        "municipio": "San Gil",
+        "direccion": "San Gil, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983437,
+          2.114077
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital San Juan De Girón, Santander",
+        "sector": "Salud",
+        "municipio": "Girón",
+        "direccion": "ESE Hospital, El Bordo, CA, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7324563,
+          6.699661
+        ]
+      },
+      "properties": {
+        "nombre": "E.S.E. Hospital Santo Domingo De Málaga, Santander",
+        "sector": "Salud",
+        "municipio": "Málaga",
+        "direccion": "Málaga, SAN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22029616856784,
+          4.582600149999999
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría 1 De Piedecuesta, Santander",
+        "sector": "Función Pública",
+        "municipio": "Piedecuesta",
+        "direccion": "Notaría 1 de Soacha, Carrera 8, Soacha Central, 250051 Soacha ciudad, CUN, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4960213,
+          3.5848883
+        ]
+      },
+      "properties": {
+        "nombre": "Notaría Única Del Círculo De Charalá, Santander",
+        "sector": "Función Pública",
+        "municipio": "Charalá",
+        "direccion": "Notaria Primera del Circulo de Yumbo, Carrera 3, Nuevo horizonte, 760501 Yumbo, VAC, Colombia"
+      }
+    }
+  ]
+}
